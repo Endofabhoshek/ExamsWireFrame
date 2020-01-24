@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model:Screen xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:model="http://wireframesketcher.com/1.0/model.ecore">
+  <widgets xsi:type="model:Browser" id="1" width="1297" height="985" text="Browser&#xA;http://www.exams.com" measuredWidth="1297" measuredHeight="985">
+    <font/>
+  </widgets>
+  <widgets xsi:type="model:Panel" id="3" x="10" y="62" width="1277" measuredWidth="1277" measuredHeight="100"/>
+  <widgets xsi:type="model:CoverFlow" id="4" x="10" y="161" width="1277" height="264" measuredWidth="1277" measuredHeight="264"/>
+  <widgets xsi:type="model:Image" id="5" x="72" y="70" width="89" height="83" measuredWidth="89" measuredHeight="83"/>
+  <hRuler/>
+  <vRuler/>
+  <font size="12px"/>
+</model:Screen>
