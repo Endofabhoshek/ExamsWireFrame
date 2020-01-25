@@ -1,0 +1,9 @@
+!SESSION 2020-01-25 14:48:04.723 -----------------------------------------------
+eclipse.buildId=unknown
+java.version=11.0.4
+java.vendor=AdoptOpenJDK
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_IN
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -data C:\Users\Pranav\Documents\GitHub\ExamsWireFrame\Exams
+
+!ENTRY com.wireframesketcher.ui 1 0 2020-01-25 14:48:09.535
+!MESSAGE WireframeSketcher v6.2.0 (trial)
